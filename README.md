@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=K%20Karthikeyan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18" />
+# 👋 Hi, I'm K Karthikeyan
+
+### 🚀 Software Engineer · Backend Developer · AI & Data Science
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=800&lines=Software+Engineering+Intern+%40+Lumen+Technologies;Backend+Developer+%7C+Java+%7C+Python+%7C+SQL;AI+%26+Data+Science+Undergraduate;Enterprise+Database+Migration+Expert;Building+Scalable+%26+Intelligent+Systems" />
 
@@ -229,8 +231,6 @@ status     : Open to Opportunities 🚀
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
 
