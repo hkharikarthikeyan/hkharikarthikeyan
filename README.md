@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kharikarthikeyan@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<a href="https://github.com/hkharikarthikeyan">
+<img src="https://img.shields.io/github/followers/hkharikarthikeyan?style=for-the-badge"/>
 </a>
 
 </p>
@@ -281,11 +281,11 @@ Mahendra Engineering College
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hkharikarthikeyan&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hkharikarthikeyan&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkharikarthikeyan&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -295,7 +295,7 @@ Mahendra Engineering College
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hkharikarthikeyan&theme=github-compact"/>
 
 </p>
 
@@ -311,11 +311,11 @@ I'm seeking opportunities as a **Software Engineer**, **Backend Developer**, or 
 
 📧 Email: YOUR_EMAIL
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn:https://www.linkedin.com/in/harikarthikeyan
 
 🌐 Portfolio: https://hariportfolio-g3.render.com
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/hkharikarthikeyan
 
 ---
 
