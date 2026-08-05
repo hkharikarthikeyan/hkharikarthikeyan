@@ -180,6 +180,7 @@ status     : Open to Opportunities 🚀
 ## 🌱 Currently Learning
 
 <div align="center">
+  
 ![AI Automation](https://img.shields.io/badge/AI_Automation-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
 ![Custom AI Design](https://img.shields.io/badge/Custom_AI_Design-0891b2?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AI Product Development](https://img.shields.io/badge/AI_Product_Development-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -187,6 +188,7 @@ status     : Open to Opportunities 🚀
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-6D28D9?style=for-the-badge&logo=blueprint&logoColor=white)
+
 </div>
 
 ---
