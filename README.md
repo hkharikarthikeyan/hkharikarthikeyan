@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineering+Intern;Backend+Developer;Java+%7C+Python+%7C+SQL;AI+%26+Data+Science+Student;Enterprise+Database+Migration;Open+Source+Learner" />
 
 <p>
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/harikarthikeyan/)">
+<a href="https://www.linkedin.com/in/harikarthikeyan">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
