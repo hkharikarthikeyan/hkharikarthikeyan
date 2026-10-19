@@ -23,7 +23,7 @@
 
 ```yaml
 name       : K Karthikeyan
-role       : Software Engineer | Backend Developer
+role       : Software Engineer | Backend Developer | AI developer | Researcher
 education  : B.Tech — Artificial Intelligence & Data Science
 college    : Mahendra Engineering College
 cgpa       : 9.16
